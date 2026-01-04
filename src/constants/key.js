@@ -9,9 +9,10 @@ export const Key = {
     tncLink,
     privacyPolicyLink,
     accessToken: AsyncStorage.getItem("access_token"),
-    mapApiKey: 'AIzaSyASRGQshp6t0wfi0WA-6MoHQsD0qAfflaM',
-    unsplashApiKey: "nsjVrH4CnoI197tnVB1miQ9Q3gkfeaWfYRkm-1cAPR4",
+    mapApiKey: '',
+    unsplashApiKey: "",
 };
 
 export default Key;
+
 
